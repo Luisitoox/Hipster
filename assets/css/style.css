@@ -1,0 +1,31 @@
+.container{
+    max-width: 900px;
+
+}
+
+.navbar{
+    background-color: #A2FF86 !important;
+}
+
+#imagen{
+    width: 900px;
+    height: 300px;
+}
+
+#foto{
+    width: 800px;
+    height: 400px;
+    border-radius: 5%;
+}
+
+#car{
+    width: 400px;
+    height: 400px;
+    border-radius: 5%;
+}
+
+#music{
+    width: 450px;
+    height: 400px;
+    border-radius: 5%;
+}
